@@ -2,7 +2,7 @@
 
 This small project showcases the **New Year** animation build using the HTML Canvas.
 
-This project uses **React 19** and **TypeScript**.
+This project uses **React 19**, **TypeScript** and **Tailwind CSS**.
 
 ## Clone the repo
 
